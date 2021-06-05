@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "apis1": {
+      "type": "apis"
+    },
+    "cosmosdb1": {
+      "type": "cosmosdb",
+      "connectionId": "PostDb"
+    },
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "PostDb"
+    }
+  }
+}

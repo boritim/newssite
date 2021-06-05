@@ -1,0 +1,15 @@
+C:\Users\CarvenSi\Desktop\PostApi\Infrastructure\bin\Release\net5.0\Infrastructure.deps.json
+C:\Users\CarvenSi\Desktop\PostApi\Infrastructure\bin\Release\net5.0\Infrastructure.dll
+C:\Users\CarvenSi\Desktop\PostApi\Infrastructure\bin\Release\net5.0\ref\Infrastructure.dll
+C:\Users\CarvenSi\Desktop\PostApi\Infrastructure\bin\Release\net5.0\Infrastructure.pdb
+C:\Users\CarvenSi\Desktop\PostApi\Infrastructure\bin\Release\net5.0\Domain.dll
+C:\Users\CarvenSi\Desktop\PostApi\Infrastructure\bin\Release\net5.0\Domain.pdb
+C:\Users\CarvenSi\Desktop\PostApi\Infrastructure\obj\Release\net5.0\Infrastructure.csprojAssemblyReference.cache
+C:\Users\CarvenSi\Desktop\PostApi\Infrastructure\obj\Release\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CarvenSi\Desktop\PostApi\Infrastructure\obj\Release\net5.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\CarvenSi\Desktop\PostApi\Infrastructure\obj\Release\net5.0\Infrastructure.AssemblyInfo.cs
+C:\Users\CarvenSi\Desktop\PostApi\Infrastructure\obj\Release\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\CarvenSi\Desktop\PostApi\Infrastructure\obj\Release\net5.0\Infrastructure.csproj.CopyComplete
+C:\Users\CarvenSi\Desktop\PostApi\Infrastructure\obj\Release\net5.0\Infrastructure.dll
+C:\Users\CarvenSi\Desktop\PostApi\Infrastructure\obj\Release\net5.0\ref\Infrastructure.dll
+C:\Users\CarvenSi\Desktop\PostApi\Infrastructure\obj\Release\net5.0\Infrastructure.pdb
